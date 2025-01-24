@@ -62,6 +62,8 @@ Ensure you have the following installed:
    ```bash
    pip install -r requirements.txt
    ```
+-  Note:
+   Alternatively, you can install dependencies by clicking on the file run.bat
 
 ## Usage
 
