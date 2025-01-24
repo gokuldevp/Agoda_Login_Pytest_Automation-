@@ -1,4 +1,3 @@
-from faker import Faker
 import pytest
 from page_objects.home_page import HomePage
 from page_objects.signin_page import SignInPage

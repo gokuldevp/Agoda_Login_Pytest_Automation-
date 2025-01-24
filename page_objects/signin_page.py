@@ -127,20 +127,6 @@ class SignInPage:
             self._handle_logger(f"Error occurred while submitting profile details: {e}")
             raise
 
-
-    def check_captcha(self):
-        """
-        Check if the CAPTCHA checkbox is available and click it if present.
-        """
-        try:
-            self._handle_logger("Checking if CAPTCHA checkbox is present.")
-            sleep(5)
-            # self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, self.CHECKBOX_CAPTCHA_CSS_SELECTOR)))
-            self.driver.execute_script('document.querySelector("#recaptcha-anchor").click();')
-            self._handle_logger("CAPTCHA checkbox found and clicked.")
-        except (NoSuchElementException, TimeoutException) as e:
-            self._handle_logger("CAPTCHA checkbox not found")
-
     def verify_sign_in_otp_page_loaded(self):
         """
         Verify that the OTP sign-in page is loaded.
