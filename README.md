@@ -100,10 +100,6 @@ Ensure you have the following installed:
 - Logs: Found in `logs/automation.log`, containing detailed execution steps and errors.
 - Reports: Generated in `Reports/YYYY_MM_DD/` as an HTML report after each test run.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact
 
 For any issues or questions, feel free to reach out:
