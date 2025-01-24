@@ -1,0 +1,214 @@
+01/24/2025 03:54:26 PM: INFO: Launching Chrome Browser
+01/24/2025 03:54:26 PM: INFO: Info :: chrome :: Attempting to load the Agoda home page.
+01/24/2025 03:54:43 PM: INFO: Info :: chrome :: Agoda home page loaded successfully.
+01/24/2025 03:54:43 PM: INFO: Info :: chrome :: Attempting to close the 'Sign In with Google' dialogue popup.
+01/24/2025 03:54:43 PM: INFO: Info :: chrome :: Successfully closed the 'Sign In with Google' dialogue popup if available.
+01/24/2025 03:54:43 PM: INFO: Info :: chrome :: Attempting to click on the Sign In link.
+01/24/2025 03:54:46 PM: INFO: Info :: chrome :: Sign In link clicked successfully.
+01/24/2025 03:54:46 PM: INFO: Info :: chrome :: Attempting to verify if user successfully navigated to the Sign In page.
+01/24/2025 03:54:46 PM: INFO: Info :: chrome :: Sign In page loaded successfully.
+01/24/2025 03:54:46 PM: INFO: Info :: chrome :: Attempting to switch to the login iframe.
+01/24/2025 03:54:47 PM: INFO: Info :: chrome :: Switched to the login iframe successfully.
+01/24/2025 03:54:47 PM: INFO: Info :: chrome :: Attempting to Enter the email address into the sign-in email input field.
+01/24/2025 03:54:51 PM: INFO: Info :: chrome :: Email entered into the sign-in form successfully.
+01/24/2025 03:54:51 PM: INFO: Info :: chrome :: Clicking on the sign-in submit button.
+01/24/2025 03:54:52 PM: INFO: Info :: chrome :: Sign-in submit button clicked.
+01/24/2025 03:54:52 PM: INFO: Info :: chrome :: Entering first name
+01/24/2025 03:54:54 PM: INFO: Info :: chrome :: First name entered successfully
+01/24/2025 03:54:54 PM: INFO: Info :: chrome :: Entering last name
+01/24/2025 03:54:54 PM: INFO: Info :: chrome :: Last name entered successfully
+01/24/2025 03:54:54 PM: INFO: Info :: chrome :: Submitting profile details
+01/24/2025 03:54:55 PM: INFO: Info :: chrome :: Profile details submitted successfully
+01/24/2025 03:54:55 PM: INFO: Info :: chrome :: Verifying that the OTP sign-in page is loaded.
+01/24/2025 03:54:57 PM: INFO: Info :: chrome :: OTP sign-in page is successfully loaded.
+01/24/2025 03:54:57 PM: INFO: Info :: chrome :: Attempting to load the Yopmail home page.
+01/24/2025 03:55:05 PM: INFO: Info :: chrome :: Attempting to Enter the email address into the sign-in yopmail input field.
+01/24/2025 03:55:05 PM: INFO: Info :: chrome :: Email entered into the yopmail input field successfully.
+01/24/2025 03:55:05 PM: INFO: Info :: chrome :: Attempting to click the YOPmail inbox submit button.
+01/24/2025 03:55:15 PM: INFO: Info :: chrome :: YOPmail inbox submit button clicked successfully.
+01/24/2025 03:55:15 PM: INFO: Info :: chrome :: Verifying that the YOPmail inbox page is loaded.
+01/24/2025 03:55:15 PM: INFO: Info :: chrome :: YOPmail inbox page loaded successfully.
+01/24/2025 03:55:15 PM: INFO: Info :: chrome :: Attempting to switch to the yopmail inbox list iframe.
+01/24/2025 03:55:15 PM: INFO: Info :: chrome :: Switched to the yopmail inbox list iframe successfully.
+01/24/2025 03:55:15 PM: INFO: Info :: chrome :: Clicking on the latest Agoda OTP email.
+01/24/2025 03:55:15 PM: INFO: Info :: chrome :: Latest Agoda OTP email clicked.
+01/24/2025 03:55:15 PM: INFO: Info :: chrome :: Switching back to the main content from the YOPmail iframe.
+01/24/2025 03:55:15 PM: INFO: Info :: chrome :: Switched back to the main content successfully.
+01/24/2025 03:55:15 PM: INFO: Info :: chrome :: Attempting to switch to the YOPmail inbox body iframe.
+01/24/2025 03:55:16 PM: INFO: Info :: chrome :: Switched to the YOPmail inbox body iframe successfully.
+01/24/2025 03:55:16 PM: INFO: Info :: chrome :: Retrieving the Agoda OTP from the email body.
+01/24/2025 03:55:16 PM: INFO: Info :: chrome :: Agoda OTP retrieved successfully.
+01/24/2025 03:55:16 PM: INFO: Info :: chrome :: Entering the OTP into the sign-in form.
+01/24/2025 03:55:16 PM: INFO: Info :: chrome :: Attempting to switch to the login iframe.
+01/24/2025 03:55:16 PM: INFO: Info :: chrome :: Switched to the login iframe successfully.
+01/24/2025 03:55:18 PM: INFO: Info :: chrome :: OTP entered successfully.
+01/24/2025 03:55:18 PM: INFO: Info :: chrome :: Attempting to submit the opt-in sign-in form.
+01/24/2025 03:55:21 PM: INFO: Info :: chrome :: Agoda home page loaded successfully.
+01/24/2025 03:55:21 PM: INFO: Info :: chrome :: Checking if the Sign In link is not available.
+01/24/2025 03:55:23 PM: INFO: Info :: chrome :: Confirmed: Sign In link is not available.
+01/24/2025 03:55:26 PM: INFO: Closing the Chrome Browser
+01/24/2025 03:58:54 PM: INFO: Launching Chrome Browser
+01/24/2025 03:58:54 PM: INFO: Info :: chrome :: Attempting to load the Agoda home page.
+01/24/2025 03:58:59 PM: INFO: Info :: chrome :: Agoda home page loaded successfully.
+01/24/2025 03:59:04 PM: INFO: Info :: chrome :: Attempting to close the 'Sign In with Google' dialogue popup.
+01/24/2025 03:59:04 PM: INFO: Info :: chrome :: Successfully closed the 'Sign In with Google' dialogue popup if available.
+01/24/2025 03:59:04 PM: INFO: Info :: chrome :: Attempting to click on the Sign In link.
+01/24/2025 03:59:07 PM: INFO: Info :: chrome :: Sign In link clicked successfully.
+01/24/2025 03:59:07 PM: INFO: Info :: chrome :: Attempting to verify if user successfully navigated to the Sign In page.
+01/24/2025 03:59:07 PM: INFO: Info :: chrome :: Sign In page loaded successfully.
+01/24/2025 03:59:07 PM: INFO: Info :: chrome :: Attempting to switch to the login iframe.
+01/24/2025 03:59:07 PM: INFO: Info :: chrome :: Switched to the login iframe successfully.
+01/24/2025 03:59:07 PM: INFO: Info :: chrome :: Attempting to Enter the email address into the sign-in email input field.
+01/24/2025 03:59:12 PM: INFO: Info :: chrome :: Email entered into the sign-in form successfully.
+01/24/2025 03:59:12 PM: INFO: Info :: chrome :: Clicking on the sign-in submit button.
+01/24/2025 03:59:13 PM: INFO: Info :: chrome :: Sign-in submit button clicked.
+01/24/2025 03:59:13 PM: INFO: Info :: chrome :: Entering first name
+01/24/2025 03:59:15 PM: INFO: Info :: chrome :: First name entered successfully
+01/24/2025 03:59:15 PM: INFO: Info :: chrome :: Entering last name
+01/24/2025 03:59:15 PM: INFO: Info :: chrome :: Last name entered successfully
+01/24/2025 03:59:15 PM: INFO: Info :: chrome :: Submitting profile details
+01/24/2025 03:59:16 PM: INFO: Info :: chrome :: Profile details submitted successfully
+01/24/2025 03:59:16 PM: INFO: Info :: chrome :: Verifying that the OTP sign-in page is loaded.
+01/24/2025 03:59:18 PM: INFO: Info :: chrome :: OTP sign-in page is successfully loaded.
+01/24/2025 03:59:18 PM: INFO: Info :: chrome :: Attempting to load the Yopmail home page.
+01/24/2025 03:59:30 PM: INFO: Info :: chrome :: Attempting to Enter the email address into the sign-in yopmail input field.
+01/24/2025 03:59:30 PM: INFO: Info :: chrome :: Email entered into the yopmail input field successfully.
+01/24/2025 03:59:30 PM: INFO: Info :: chrome :: Attempting to click the YOPmail inbox submit button.
+01/24/2025 03:59:31 PM: INFO: Info :: chrome :: YOPmail inbox submit button clicked successfully.
+01/24/2025 03:59:31 PM: INFO: Info :: chrome :: Verifying that the YOPmail inbox page is loaded.
+01/24/2025 03:59:31 PM: INFO: Info :: chrome :: YOPmail inbox page loaded successfully.
+01/24/2025 03:59:31 PM: INFO: Info :: chrome :: Attempting to switch to the yopmail inbox list iframe.
+01/24/2025 03:59:32 PM: INFO: Info :: chrome :: Switched to the yopmail inbox list iframe successfully.
+01/24/2025 03:59:32 PM: INFO: Info :: chrome :: Clicking on the latest Agoda OTP email.
+01/24/2025 03:59:50 PM: INFO: Closing the Chrome Browser
+01/24/2025 04:00:27 PM: INFO: Launching Chrome Browser
+01/24/2025 04:00:27 PM: INFO: Info :: chrome :: Attempting to load the Agoda home page.
+01/24/2025 04:00:36 PM: INFO: Info :: chrome :: Agoda home page loaded successfully.
+01/24/2025 04:00:37 PM: INFO: Info :: chrome :: Attempting to close the 'Sign In with Google' dialogue popup.
+01/24/2025 04:00:37 PM: INFO: Info :: chrome :: Successfully closed the 'Sign In with Google' dialogue popup if available.
+01/24/2025 04:00:37 PM: INFO: Info :: chrome :: Attempting to click on the Sign In link.
+01/24/2025 04:00:39 PM: INFO: Info :: chrome :: Sign In link clicked successfully.
+01/24/2025 04:00:39 PM: INFO: Info :: chrome :: Attempting to verify if user successfully navigated to the Sign In page.
+01/24/2025 04:00:39 PM: INFO: Info :: chrome :: Sign In page loaded successfully.
+01/24/2025 04:00:40 PM: INFO: Info :: chrome :: Attempting to switch to the login iframe.
+01/24/2025 04:00:40 PM: INFO: Info :: chrome :: Switched to the login iframe successfully.
+01/24/2025 04:00:40 PM: INFO: Info :: chrome :: Attempting to Enter the email address into the sign-in email input field.
+01/24/2025 04:00:44 PM: INFO: Info :: chrome :: Email entered into the sign-in form successfully.
+01/24/2025 04:00:44 PM: INFO: Info :: chrome :: Clicking on the sign-in submit button.
+01/24/2025 04:00:45 PM: INFO: Info :: chrome :: Sign-in submit button clicked.
+01/24/2025 04:00:45 PM: INFO: Info :: chrome :: Entering first name
+01/24/2025 04:00:48 PM: INFO: Info :: chrome :: First name entered successfully
+01/24/2025 04:00:48 PM: INFO: Info :: chrome :: Entering last name
+01/24/2025 04:00:48 PM: INFO: Info :: chrome :: Last name entered successfully
+01/24/2025 04:00:48 PM: INFO: Info :: chrome :: Submitting profile details
+01/24/2025 04:00:48 PM: INFO: Info :: chrome :: Profile details submitted successfully
+01/24/2025 04:00:48 PM: INFO: Info :: chrome :: Verifying that the OTP sign-in page is loaded.
+01/24/2025 04:00:51 PM: INFO: Info :: chrome :: OTP sign-in page is successfully loaded.
+01/24/2025 04:00:51 PM: INFO: Info :: chrome :: Attempting to load the Yopmail home page.
+01/24/2025 04:01:05 PM: INFO: Info :: chrome :: Attempting to Enter the email address into the sign-in yopmail input field.
+01/24/2025 04:01:06 PM: INFO: Info :: chrome :: Email entered into the yopmail input field successfully.
+01/24/2025 04:01:06 PM: INFO: Info :: chrome :: Attempting to click the YOPmail inbox submit button.
+01/24/2025 04:01:09 PM: INFO: Info :: chrome :: YOPmail inbox submit button clicked successfully.
+01/24/2025 04:01:09 PM: INFO: Info :: chrome :: Verifying that the YOPmail inbox page is loaded.
+01/24/2025 04:01:09 PM: INFO: Info :: chrome :: YOPmail inbox page loaded successfully.
+01/24/2025 04:01:09 PM: INFO: Info :: chrome :: Attempting to switch to the yopmail inbox list iframe.
+01/24/2025 04:01:09 PM: INFO: Info :: chrome :: Switched to the yopmail inbox list iframe successfully.
+01/24/2025 04:01:09 PM: INFO: Info :: chrome :: Clicking on the latest Agoda OTP email.
+01/24/2025 04:01:40 PM: INFO: Closing the Chrome Browser
+01/24/2025 04:02:36 PM: INFO: Launching Firefox Browser
+01/24/2025 04:02:36 PM: INFO: Info :: firefox :: Attempting to load the Agoda home page.
+01/24/2025 04:02:46 PM: INFO: Info :: firefox :: Agoda home page loaded successfully.
+01/24/2025 04:02:48 PM: INFO: Info :: firefox :: Attempting to close the 'Sign In with Google' dialogue popup.
+01/24/2025 04:02:48 PM: INFO: Info :: firefox :: Successfully closed the 'Sign In with Google' dialogue popup if available.
+01/24/2025 04:02:48 PM: INFO: Info :: firefox :: Attempting to click on the Sign In link.
+01/24/2025 04:02:51 PM: INFO: Info :: firefox :: Sign In link clicked successfully.
+01/24/2025 04:02:51 PM: INFO: Info :: firefox :: Attempting to verify if user successfully navigated to the Sign In page.
+01/24/2025 04:02:51 PM: INFO: Info :: firefox :: Sign In page loaded successfully.
+01/24/2025 04:02:51 PM: INFO: Info :: firefox :: Attempting to switch to the login iframe.
+01/24/2025 04:02:52 PM: INFO: Info :: firefox :: Switched to the login iframe successfully.
+01/24/2025 04:02:52 PM: INFO: Info :: firefox :: Attempting to Enter the email address into the sign-in email input field.
+01/24/2025 04:02:54 PM: INFO: Info :: firefox :: Email entered into the sign-in form successfully.
+01/24/2025 04:02:54 PM: INFO: Info :: firefox :: Clicking on the sign-in submit button.
+01/24/2025 04:02:56 PM: INFO: Info :: firefox :: Sign-in submit button clicked.
+01/24/2025 04:02:56 PM: INFO: Info :: firefox :: Entering first name
+01/24/2025 04:02:58 PM: INFO: Info :: firefox :: First name entered successfully
+01/24/2025 04:02:58 PM: INFO: Info :: firefox :: Entering last name
+01/24/2025 04:02:58 PM: INFO: Info :: firefox :: Last name entered successfully
+01/24/2025 04:02:58 PM: INFO: Info :: firefox :: Submitting profile details
+01/24/2025 04:02:58 PM: INFO: Info :: firefox :: Profile details submitted successfully
+01/24/2025 04:02:58 PM: INFO: Info :: firefox :: Verifying that the OTP sign-in page is loaded.
+01/24/2025 04:03:01 PM: INFO: Info :: firefox :: OTP sign-in page is successfully loaded.
+01/24/2025 04:03:01 PM: INFO: Info :: firefox :: Attempting to load the Yopmail home page.
+01/24/2025 04:03:07 PM: INFO: Info :: firefox :: Attempting to Enter the email address into the sign-in yopmail input field.
+01/24/2025 04:03:08 PM: INFO: Info :: firefox :: Email entered into the yopmail input field successfully.
+01/24/2025 04:03:08 PM: INFO: Info :: firefox :: Attempting to click the YOPmail inbox submit button.
+01/24/2025 04:03:09 PM: INFO: Info :: firefox :: YOPmail inbox submit button clicked successfully.
+01/24/2025 04:03:09 PM: INFO: Info :: firefox :: Verifying that the YOPmail inbox page is loaded.
+01/24/2025 04:03:09 PM: INFO: Info :: firefox :: YOPmail inbox page loaded successfully.
+01/24/2025 04:03:09 PM: INFO: Info :: firefox :: Attempting to switch to the yopmail inbox list iframe.
+01/24/2025 04:03:09 PM: INFO: Info :: firefox :: Switched to the yopmail inbox list iframe successfully.
+01/24/2025 04:03:09 PM: INFO: Info :: firefox :: Clicking on the latest Agoda OTP email.
+01/24/2025 04:03:24 PM: INFO: Info :: firefox :: Latest Agoda OTP email clicked.
+01/24/2025 04:03:24 PM: INFO: Info :: firefox :: Switching back to the main content from the YOPmail iframe.
+01/24/2025 04:03:24 PM: INFO: Info :: firefox :: Switched back to the main content successfully.
+01/24/2025 04:03:24 PM: INFO: Info :: firefox :: Attempting to switch to the YOPmail inbox body iframe.
+01/24/2025 04:03:24 PM: INFO: Info :: firefox :: Switched to the YOPmail inbox body iframe successfully.
+01/24/2025 04:03:24 PM: INFO: Info :: firefox :: Retrieving the Agoda OTP from the email body.
+01/24/2025 04:03:24 PM: INFO: Info :: firefox :: Agoda OTP retrieved successfully.
+01/24/2025 04:03:25 PM: INFO: Info :: firefox :: Entering the OTP into the sign-in form.
+01/24/2025 04:03:25 PM: INFO: Info :: firefox :: Attempting to switch to the login iframe.
+01/24/2025 04:03:25 PM: INFO: Info :: firefox :: Switched to the login iframe successfully.
+01/24/2025 04:03:25 PM: INFO: Info :: firefox :: OTP entered successfully.
+01/24/2025 04:03:25 PM: INFO: Info :: firefox :: Attempting to submit the opt-in sign-in form.
+01/24/2025 04:03:32 PM: INFO: Info :: firefox :: Agoda home page loaded successfully.
+01/24/2025 04:03:32 PM: INFO: Info :: firefox :: Checking if the Sign In link is not available.
+01/24/2025 04:03:36 PM: INFO: Closing the Firefox Browser
+01/24/2025 04:04:33 PM: INFO: Launching Chrome Browser
+01/24/2025 04:04:33 PM: INFO: Info :: chrome :: Attempting to load the Agoda home page.
+01/24/2025 04:04:43 PM: INFO: Info :: chrome :: Agoda home page loaded successfully.
+01/24/2025 04:04:44 PM: INFO: Info :: chrome :: Attempting to close the 'Sign In with Google' dialogue popup.
+01/24/2025 04:04:44 PM: INFO: Info :: chrome :: Successfully closed the 'Sign In with Google' dialogue popup if available.
+01/24/2025 04:04:44 PM: INFO: Info :: chrome :: Attempting to click on the Sign In link.
+01/24/2025 04:04:47 PM: INFO: Info :: chrome :: Sign In link clicked successfully.
+01/24/2025 04:04:47 PM: INFO: Info :: chrome :: Attempting to verify if user successfully navigated to the Sign In page.
+01/24/2025 04:04:47 PM: INFO: Info :: chrome :: Sign In page loaded successfully.
+01/24/2025 04:04:48 PM: INFO: Info :: chrome :: Attempting to switch to the login iframe.
+01/24/2025 04:04:48 PM: INFO: Info :: chrome :: Switched to the login iframe successfully.
+01/24/2025 04:04:48 PM: INFO: Info :: chrome :: Attempting to Enter the email address into the sign-in email input field.
+01/24/2025 04:04:52 PM: INFO: Info :: chrome :: Email entered into the sign-in form successfully.
+01/24/2025 04:04:52 PM: INFO: Info :: chrome :: Clicking on the sign-in submit button.
+01/24/2025 04:04:53 PM: INFO: Info :: chrome :: Sign-in submit button clicked.
+01/24/2025 04:04:53 PM: INFO: Info :: chrome :: Entering first name
+01/24/2025 04:04:55 PM: INFO: Info :: chrome :: First name entered successfully
+01/24/2025 04:04:55 PM: INFO: Info :: chrome :: Entering last name
+01/24/2025 04:04:55 PM: INFO: Info :: chrome :: Last name entered successfully
+01/24/2025 04:04:55 PM: INFO: Info :: chrome :: Submitting profile details
+01/24/2025 04:04:56 PM: INFO: Info :: chrome :: Profile details submitted successfully
+01/24/2025 04:04:56 PM: INFO: Info :: chrome :: Verifying that the OTP sign-in page is loaded.
+01/24/2025 04:04:58 PM: INFO: Info :: chrome :: OTP sign-in page is successfully loaded.
+01/24/2025 04:04:59 PM: INFO: Info :: chrome :: Attempting to load the Yopmail home page.
+01/24/2025 04:05:26 PM: INFO: Info :: chrome :: Attempting to Enter the email address into the sign-in yopmail input field.
+01/24/2025 04:05:27 PM: INFO: Info :: chrome :: Email entered into the yopmail input field successfully.
+01/24/2025 04:05:27 PM: INFO: Info :: chrome :: Attempting to click the YOPmail inbox submit button.
+01/24/2025 04:05:29 PM: INFO: Info :: chrome :: YOPmail inbox submit button clicked successfully.
+01/24/2025 04:05:29 PM: INFO: Info :: chrome :: Verifying that the YOPmail inbox page is loaded.
+01/24/2025 04:05:29 PM: INFO: Info :: chrome :: YOPmail inbox page loaded successfully.
+01/24/2025 04:05:29 PM: INFO: Info :: chrome :: Attempting to switch to the yopmail inbox list iframe.
+01/24/2025 04:05:29 PM: INFO: Info :: chrome :: Switched to the yopmail inbox list iframe successfully.
+01/24/2025 04:05:29 PM: INFO: Info :: chrome :: Clicking on the latest Agoda OTP email.
+01/24/2025 04:05:29 PM: INFO: Info :: chrome :: Latest Agoda OTP email clicked.
+01/24/2025 04:05:29 PM: INFO: Info :: chrome :: Switching back to the main content from the YOPmail iframe.
+01/24/2025 04:05:29 PM: INFO: Info :: chrome :: Switched back to the main content successfully.
+01/24/2025 04:05:29 PM: INFO: Info :: chrome :: Attempting to switch to the YOPmail inbox body iframe.
+01/24/2025 04:05:29 PM: INFO: Info :: chrome :: Switched to the YOPmail inbox body iframe successfully.
+01/24/2025 04:05:29 PM: INFO: Info :: chrome :: Retrieving the Agoda OTP from the email body.
+01/24/2025 04:05:30 PM: INFO: Info :: chrome :: Agoda OTP retrieved successfully.
+01/24/2025 04:05:30 PM: INFO: Info :: chrome :: Entering the OTP into the sign-in form.
+01/24/2025 04:05:30 PM: INFO: Info :: chrome :: Attempting to switch to the login iframe.
+01/24/2025 04:05:30 PM: INFO: Info :: chrome :: Switched to the login iframe successfully.
+01/24/2025 04:05:31 PM: INFO: Info :: chrome :: OTP entered successfully.
+01/24/2025 04:05:31 PM: INFO: Info :: chrome :: Attempting to submit the opt-in sign-in form.
+01/24/2025 04:05:35 PM: INFO: Info :: chrome :: Agoda home page loaded successfully.
+01/24/2025 04:05:35 PM: INFO: Info :: chrome :: Checking if the Sign In link is not available.
+01/24/2025 04:05:39 PM: INFO: Info :: chrome :: Confirmed: Sign In link is not available.
+01/24/2025 04:05:42 PM: INFO: Closing the Chrome Browser
